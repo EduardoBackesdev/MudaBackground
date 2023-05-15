@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+
+button{
+    margin-top: 250px;
+    width: 20%;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    border: 1px solid black;
+    cursor: pointer;
+    background: black;
+    color: white;
+    font-size: 24px;
+    margin-right: 7px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.white{
+    background-color: white;
+}
+
+.orange{
+    background-color: orange;
+}
+.black{
+    background-color: black;
+}
